@@ -1,7 +1,3 @@
-node_modules
-.env*.local
-.env
-keys
 # Logs
 logs
 *.log
